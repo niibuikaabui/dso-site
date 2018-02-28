@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ドリームサポート沖縄</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on ドリームサポート沖縄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 20 Feb 2018 16:56:55 +0900</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20180220test</title>
+      <link>http://localhost:1313/post/20180220test/</link>
+      <pubDate>Tue, 20 Feb 2018 16:56:55 +0900</pubDate>
+      
+      <guid>http://localhost:1313/post/20180220test/</guid>
+      <description>適当にはろーとか 記載してみる
+てすと</description>
+    </item>
+    
+  </channel>
+</rss>

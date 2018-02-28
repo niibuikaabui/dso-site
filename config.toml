@@ -1,0 +1,10 @@
+baseurl = "http://localhost:1313/"
+languageCode = "ja"
+title = "ドリームサポート沖縄"
+theme = "dso-theme"
+
+[Params]
+description = "サイトの説明"
+twitter_account = "xxxxxx"
+github_account = "xxxxxx"
+analytics = "UA-01234567-8"
